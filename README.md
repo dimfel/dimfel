@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dimfel
-- 👀 I’m interested in learning to be a proper programmer and learning to love learning
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on anything good
+- 👀 I’m interested in learning more programming
 
 
 <!---
